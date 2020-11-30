@@ -1,0 +1,9 @@
+.titulo{
+    background-color: cyan;
+    color: black;
+    font-weight: bold;font-style: ;
+}
+.caja{
+    border: black;
+    border-style: solid;
+}
